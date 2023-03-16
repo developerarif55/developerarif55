@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects,are available at [youtube.com/dreamwebdev](youtube.com/dreamwebdev)
 
-- 💬 Ask me about **ReactJS, nextJS,JavaScript** blockchain** web3**
+- 💬 Ask me about **ReactJS, nextJS,JavaScript ** blockchain ** web3 ** Grid-Master😎**
 
-- ⚡ Fun fact **i married with JS**
+- ⚡ Fun fact **i married with JS😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
