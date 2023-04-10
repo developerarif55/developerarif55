@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Blockchains, pythons,**
 
-- 👨‍💻 All of my projects,are available at [youtube.com/dreamwebdev](youtube.com/dreamwebdev)
+- 👨‍💻 All of my projects,are available at [youtube.com/slowprogrammer](youtube.com/slowprogrammer), [youtube.com/skillswitharif](youtube.com/skillswitharif)
 
 - 💬 Ask me about **ReactJS, nextJS, JavaScript, blockchain, web3, CSSGrid-Master😎**
 
